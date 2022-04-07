@@ -4,7 +4,6 @@
 
 * [DataHub.io](https://datahub.io/)
 
-
 ## Software Products
 
 * [Apache Jena]()
